@@ -1,3 +1,18 @@
+Copy of [https://diffuse.svn.sourceforge.net/svnroot/diffuse/trunk]
+
+Development [http://diffuse.sourceforge.net/development.html]
+
+Diffuse is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License [http://www.gnu.org/licenses/old-licenses/gpl-2.0.html] as published by the Free Software Foundation; either version 2 of the licence, or (at your option) any later version.
+
+Tools Used in Diffuse Development
+* Interpreter: Python
+* User interface: PyGTK
+* Documentation processing: xsltproc and DocBook stylesheets
+* Microsoft Windows binary: py2exe
+* Microsoft Windows installer: Inno Setup and ADD_PATH
+
+====
+
 Diffuse
 Version 0.4.8
 
